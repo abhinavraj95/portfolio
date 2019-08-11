@@ -1,0 +1,14 @@
+.parent {
+  display: flex;
+}
+
+.section-image {
+  display: flex;
+  width: 50%;
+  padding: 15%;
+}
+
+.section-form {
+  margin-top: 8%;
+  margin-right: 5%;
+}
